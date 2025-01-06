@@ -24,7 +24,7 @@ The screen recorder includes the following functionalities:
 - **Color Format Conversion:** OpenCV uses BGR as its default color format, so the project includes conversion of BGR to RGB.
 
 ## Usage
-1. Ensure you have Python installed on your system.
+1. Ensure you have Python installed on your system (Windows, Linux or Mac).
 2. Install the required libraries using pip:
    ```bash
    pip install Pillow numpy opencv-contrib-python pywin32
